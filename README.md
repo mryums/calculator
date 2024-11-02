@@ -1,2 +1,2 @@
-# calculator
+# Calculator
 Apple like calculator
